@@ -28,11 +28,11 @@ named them manually:
 
 | Cluster | Name | Signal |
 |---------|------|--------|
-| 0 | Balanced | Mid-range across all features |
-| 1 | Party | High danceability, high valence |
+| 0 | Party | High danceability + valence |
+| 1 | Workout | High energy, low valence |
 | 2 | Chill | Low energy, low loudness |
-| 3 | Workout | High energy, moderate valence |
-| 4 | Energetic | High tempo, high energy |
+| 3 | Balanced | Mid-range across all features |
+| 4 | Energetic | High tempo + energy |
 
 This is the step where the project stops being ML and starts being a product.
 
